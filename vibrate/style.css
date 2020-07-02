@@ -16,6 +16,10 @@ body{
     font-weight: 600;
     box-shadow: 8px 8px 16px #000;
     opacity: 1;
+    animation: drop 1.5s ease;
+    position:absolute;
+    top:200px;
+    left:200px;
     
 }
 .vibrate:hover,.vibrate:focus{
