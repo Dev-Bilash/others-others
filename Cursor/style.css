@@ -8,8 +8,8 @@ body{
 .inner__cursor{
     position: absolute;
     display: none;
-    width: 10px;
-    height: 10px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background: #a6fff2;
 }
