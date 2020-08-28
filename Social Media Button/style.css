@@ -1,0 +1,25 @@
+body{
+    background-color: #d7dadc;
+    padding: 170px 0px 0px 300px;
+}
+.fa{
+    padding: 20px 20px 0px 20px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    color: #000;
+    border-radius: 5%;
+    box-shadow: inset 36px 36px 91px #b5b7b9,
+                inset -36px -36px 91px #f9fdff;
+                transition: 1s border-radius ease-in;
+}
+.fa:hover{
+    border-radius: 100%;
+    background: #d7dadc;
+    box-shadow: 36px 36px 91px #b5b7b9,
+    -36px -36px 91px #f9fdff;
+    
+}
